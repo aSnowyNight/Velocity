@@ -41,6 +41,7 @@ do
         Title = "Button",
         Description = "Very important button",
         Callback = function()
+                when clicked ru
             Window:Dialog({
                 Title = "Title",
                 Content = "This is a dialog",
