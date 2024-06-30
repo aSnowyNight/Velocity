@@ -65,3 +65,29 @@ local Window = Rayfield:CreateWindow({
  })
 
  local GameTab = Window:CreateTab("Game", 4483362458) -- Title, Image
+
+
+
+
+
+
+
+
+
+
+
+
+
+ local TeleportTab = Window:CreateTab("Teleport", 4483362458) -- Title, Image
+
+
+
+
+
+ local BuyTab = Window:CreateTab("Buy", 4483362458) -- Title, Image
+
+
+
+
+
+ local MiscTab = Window:CreateTab("Misc", 4483362458) -- Title, Image
